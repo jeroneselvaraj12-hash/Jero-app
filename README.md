@@ -3,7 +3,7 @@
 **JERO** is a next-generation cyber-themed chat application built for Android and Web.  
 This repository contains the **official website / landing page** for the JERO app, hosted using GitHub Pages.
 
-🌐 Live Website: https://yourusername.github.io/jero-app/
+🌐 Live Website: https://jerochat.github.io/jero-app/
 
 ---
 
